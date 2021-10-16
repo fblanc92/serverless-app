@@ -1,2 +1,2 @@
-# slsapp
+# Readme
 Serverless app
